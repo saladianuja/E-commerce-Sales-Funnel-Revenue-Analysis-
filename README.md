@@ -273,3 +273,9 @@ E-Commerce-Sales-Funnel-Analysis/
 
 ```bash
 git clone <your-repository-url>
+```
+---
+
+## 📌 Conclusion
+
+This project demonstrates how MySQL and SQL can be used to analyze e-commerce customer behavior and business performance. The funnel, traffic-source, conversion-time, and revenue analyses help identify customer drop-offs, evaluate conversion efficiency, and understand overall sales performance.
