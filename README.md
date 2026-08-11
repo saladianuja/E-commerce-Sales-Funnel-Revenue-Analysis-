@@ -263,7 +263,7 @@ E-Commerce-Sales-Funnel-Analysis/
 │
 ├── user_events.csv
 │
-└── fig-1-revenue-analysis.jpg
+└── image.jpg
 
 ---
 
