@@ -23,13 +23,21 @@ This project analyzes an e-commerce customer journey using MySQL to understand h
 The customer journey is analyzed through five major stages:
 
 Page View
-↓
+
+   ↓
+
 Add to Cart
-↓
+
+   ↓
+
 Checkout
-↓
+
+   ↓
+
 Payment Information
-↓
+
+   ↓
+
 Purchase
 
 ---
@@ -257,12 +265,19 @@ The complete SQL analysis results are shown in the project results image:
 
 E-Commerce-Sales-Funnel-Analysis/
 │
+
 ├── README.md
+
 │
+
 ├── ecommerce_sales_funnel.sql
+
 │
+
 ├── user_events.csv
+
 │
+
 └── image.jpg
 
 ---
